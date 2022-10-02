@@ -1,0 +1,39 @@
+div p{
+ color: black;
+}
+
+.container{
+   width: 1200px; 
+  height: 90px; 
+  border: 4px dotted black; 
+  margin: 10px; 
+  background-color: green;
+}
+
+
+.col{
+  text-align: left;
+  font-size: 15px;
+  color: red;
+  margin: 10px;
+}
+
+.lin{
+  text-align: left;
+  font-size: 15px;
+  color: darkgreen;
+  margin: 10px;
+  
+}
+
+div + p{
+  color: purple;
+  font-size: 12px;
+}
+
+.firstbox{
+  width: 1500px;
+  height: 135px;
+  border: 1px solid white;
+  background-color: green;
+}
