@@ -1,0 +1,47 @@
+body{
+  color: black;
+  background-color: green;
+}
+
+#wrapper{
+  width: 950px;
+  float: right;
+}
+
+#header{
+  height: 10%;
+  width: 70%;
+  text-align: center;
+  font-size: 10px;
+  background-color: red;
+}
+
+#leftnav{
+  float: left;
+  height: 10%;
+  width: 20%;
+  font-size: 12px;
+  background-color: pink;
+}
+
+#rightnav{
+  float: left;
+  height: 10%;
+  width: 50%;
+  font-size: 12px;
+  background-color: orange;
+}
+
+#content{
+  height: 60%;
+  width: 70%;
+  font-size: 12px;
+  background-color: blue;
+}
+
+#footer{
+  height: 5%;
+  width: 70%;
+  font-size: 12px;
+  background-color: yellow;
+}
