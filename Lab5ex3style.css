@@ -1,0 +1,27 @@
+body{
+  background-color: green;
+}
+
+#firstcontent{
+  float: left;
+  margin-left: 10%;
+  height: 250px;
+  width: 250px;
+  background-color: blue;
+}
+
+#secondcontent{
+  float: right;
+  margin-right: 10%;
+  height: 250px;
+  width: 250px;
+  background-color: red;
+}
+
+#thirdcontent{
+  height: 250px;
+  width: 250px;
+  margin-left: 40%;
+  background-color: yellow;
+  clear: both;
+}
