@@ -1,0 +1,53 @@
+.color{
+  color: maroon;
+}
+
+.size{
+  font-size: 25px;
+}
+
+.font{
+  font-family: "Courier New";
+}
+
+.case{
+  text-transform: uppercase;
+}
+
+.container{
+  width: 500px;
+  height: 500px;
+  border: 1px solid black;
+  margin: 15%;
+  padding: 50px;
+}
+
+.box{
+  width: 100px;
+  height: 100px;
+}
+
+.pink{
+  background-color: pink;
+  position: absolute;
+}
+
+.gray{
+  background-color: gray;
+  position: relative;
+  top: 50px;
+  left: 50px;
+}
+
+.purple{
+  background-color: purple;
+  position: fixed;
+}
+
+p > span{
+  color: orange;
+}
+
+h1,h2,h3{
+  background-color: pink;
+}
